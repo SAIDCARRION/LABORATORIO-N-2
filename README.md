@@ -20,8 +20,7 @@ Analizar y distinguir las mallas en el circuito para poder resolverlo .
 Comparar los datos en el simulador como en los resultados calculados y realizar el cálculo del error.
 
 2.- Marco Teórico
-
-[url=https://postimg.cc/Ny0pDGMx][img]https://i.postimg.cc/Ny0pDGMx/1-9-1.png[/img][/url]
+![image](https://user-images.githubusercontent.com/118011119/202766113-fcca3dd3-c36e-420c-a055-afea7ec84373.png)
 
 3.- Diagramas
 
