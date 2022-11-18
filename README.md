@@ -21,7 +21,7 @@ Comparar los datos en el simulador como en los resultados calculados y realizar 
 
 2.- Marco Teórico
 
-1-15.jpg
+[url=https://postimg.cc/Ny0pDGMx][img]https://i.postimg.cc/Ny0pDGMx/1-9-1.png[/img][/url]
 
 3.- Diagramas
 
