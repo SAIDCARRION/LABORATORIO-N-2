@@ -39,10 +39,10 @@ Corriente que circula por malla 3.
 
 Circuito con todos los elementos de medida.
 
-
+[![1-6.jpg](https://i.postimg.cc/G3jc1mn0/1-6.jpg)](https://postimg.cc/0rbgYxNZ)
 
 Lista de componentes
-1-8.jpg
+[![1-8.jpg](https://i.postimg.cc/hPycfZGp/1-8.jpg)](https://postimg.cc/F7L26Z3L)
 
 5.- Explicación
 
@@ -76,10 +76,10 @@ Desde el lado negativo de la fuente de voltaje se conectará a la resistencia de
 
 5.2.- Mida cada una de las corrientes de la malla y anote los resultados en la tabla
 
-1-9.png
+[![1-9.png](https://i.postimg.cc/fyQj7vTP/1-9.png)](https://postimg.cc/hzMdcTm8)
 
-La tabla cuenta de tres columnas, en la primera columna tenemos el número de nodos con los que el circuito cuenta, depues de analizar el circuito se llega a la conclusión que tiene tres nodos. En la segunda columna, tenemos los resultados analíticos, estos resultados son obtenidos mediante el cálculo de fórmulas. Finalmente, en la tercera columna, obtenemos los resultados experimentales, estos fueron obtenidos con la ayuda del simulador Tinkercad y la conexión de los elementos de medida. 1-9.png
-
+La tabla cuenta de tres columnas, en la primera columna tenemos el número de nodos con los que el circuito cuenta, depues de analizar el circuito se llega a la conclusión que tiene tres nodos. En la segunda columna, tenemos los resultados analíticos, estos resultados son obtenidos mediante el cálculo de fórmulas. Finalmente, en la tercera columna, obtenemos los resultados experimentales, estos fueron obtenidos con la ayuda del simulador Tinkercad y la conexión de los elementos de medida. 
+[![1-9.png](https://i.postimg.cc/fyQj7vTP/1-9.png)](https://postimg.cc/hzMdcTm8)
 5.3.- Compare los valores de la tabla y realice sus conclusiones.
 
 En conclusión, como se puede observar en la tabla, los valores varian por unos decimales. Esto es debido a que en el programa Tinkercad redondea hasta dos decimales, de esa manera perdiendo muchas cifras significativas. Mientras tanto, cuando realizamos los resultados analíticos, utilizamos como máximo 3 decimales, por lo que omitimos muchos de ellos, entonces al seguir realizando los cálculos nos puede marcar un pequeño error porcentual. Al ser valores muy próximos y al solo variar por decimales, el error porcentual es muy bajo y en algunos casos nulo, debido a que encanja perfectamente en ambos casos de resultados analíticos y resultados experimentales.
