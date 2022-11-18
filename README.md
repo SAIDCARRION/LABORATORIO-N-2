@@ -86,16 +86,15 @@ En conclusión, como se puede observar en la tabla, los valores varian por unos 
 
 Error porcentual malla 1.
 
-1-10.png
+[![1-10.png](https://i.postimg.cc/4NfPdBKL/1-10.png)](https://postimg.cc/Z0QpsPxp)
 
 Error porcentual malla 2.
 
-1-11.png
+[![1-11.png](https://i.postimg.cc/C5y2XDmy/1-11.png)](https://postimg.cc/mzwVFPvV)
 
 Error porcentual malla 3.
 
-1-12.png
-
+[![1-12.png](https://i.postimg.cc/V6XgShBT/1-12.png)](https://postimg.cc/zbXK60QS)
 Vídeo
 https://youtu.be/hlGrobf1XZk
 
