@@ -27,19 +27,19 @@ Comparar los datos en el simulador como en los resultados calculados y realizar 
 
 Corriente que circula por malla 1.
 
-1-3.jpg
+[![1-3.jpg](https://i.postimg.cc/Kv1W19yP/1-3.jpg)](https://postimg.cc/bsjgM9rr)
 
 Corriente que circula por malla 2.
 
-1-4.jpg
+[![1-4.jpg](https://i.postimg.cc/dQHXQbgQ/1-4.jpg)](https://postimg.cc/XX5xQzVt)
 
 Corriente que circula por malla 3.
 
-1-5.jpg
+[![1-5.jpg](https://i.postimg.cc/NFSPmX2C/1-5.jpg)](https://postimg.cc/hQ8rqfrV)
 
 Circuito con todos los elementos de medida.
 
-1-6.jpg
+
 
 Lista de componentes
 1-8.jpg
